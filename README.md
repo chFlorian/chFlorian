@@ -2,6 +2,10 @@
 
 ![Banner Image](release_banner.png "ChallengeMe just launched!")
 
+- 👨‍🎓 Currently studying for M.Sc. Informatics: Games Engineering
+- 📱 Passionate iOS developer
+- 🎬 Teaching Swift on [Youtube (Flo writes Code)](https://www.youtube.com/c/FlowritesCode)
+
 <!--
 **chFlorian/chFlorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
