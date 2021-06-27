@@ -1,6 +1,6 @@
-![Banner Image](release_banner.png "ChallengeMe just launched!")
-
 ### Hey, this is Flo 👋
+
+![Banner Image](release_banner.png "ChallengeMe just launched!")
 
 <!--
 **chFlorian/chFlorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
