@@ -2,6 +2,8 @@
 
 ![Banner Image](release_banner.png "ChallengeMe just launched!")
 
+<img align="left" alt="roblack's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chFlorian&show_icons=true&theme=buefy&count_private=true" />
+
 - 👨‍🎓 Currently studying for M.Sc. Informatics: Games Engineering
 - 📱 Passionate iOS developer
 - 🎬 Teaching Swift on [Youtube (Flo writes Code)](https://www.youtube.com/c/FlowritesCode)
