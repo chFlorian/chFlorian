@@ -2,7 +2,7 @@
 
 <img align="left" alt="roblack's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chFlorian&show_icons=true&theme=buefy&count_private=true" />
 
-- 👨‍🎓 Currently studying for M.Sc. Informatics: Games Engineering
+- 👨‍🎓 Currently working on my PhD in digital health
 - 📱 Passionate iOS developer
 - 🎬 Teaching Swift on [Youtube (Flo writes Code)](https://www.youtube.com/c/FlowritesCode)
 
